@@ -1,4 +1,4 @@
-"""Módulo de gestión de ventas de Nova Retail."""
+"""Módulo de gestión de ventas de Nova Retail y Asociados."""
 
 def validar_stock(stock_actual, cantidad):
     """Verifica si existe stock suficiente."""
